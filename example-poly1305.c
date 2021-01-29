@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "poly1305-impl.h"
+#include "poly1305.h"
 #include "uint256.h"
 
 const unsigned char *msg =  reinterpret_cast<const unsigned char *>("hola?");
